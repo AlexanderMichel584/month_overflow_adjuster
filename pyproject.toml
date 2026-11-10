@@ -1,6 +1,6 @@
 [project]
 name = "month-overflow-adjuster"
-version = "0.1.0"
+version = "0.1.1"
 description = "Adds or subtracts whole months to a date or datetime, clamping the day to the last day of the target month instead of overflowing into the following one."
 requires-python = ">=3.10"
 dependencies = []
